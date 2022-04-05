@@ -6,7 +6,9 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
-import com.example.capstone.ui.databinding.FragmentSecond2Binding
+import com.example.capstone.R
+import com.example.capstone.databinding.FragmentSecond2Binding
+
 
 /**
  * A simple [Fragment] subclass as the second destination in the navigation.
