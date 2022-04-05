@@ -14,4 +14,6 @@
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
     <string name="title_activity_login_page">Login_page</string>
+    <string name="title_activity_enrollment_page">Enrollment_page</string>
+    <string name="title_activity_profile_page">Profile_page</string>
 </resources>
