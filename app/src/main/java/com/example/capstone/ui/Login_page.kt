@@ -8,7 +8,8 @@ import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import com.example.capstone.R
-import com.example.capstone.ui.databinding.ActivityLoginPageBinding
+import com.example.capstone.databinding.ActivityLoginPageBinding
+
 
 class Login_page : AppCompatActivity() {
 
