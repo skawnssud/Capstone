@@ -8,7 +8,7 @@ import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import com.example.capstone.R
-import com.example.capstone.databinding.ActivityEnrollmentPageBinding
+import com.example.capstone.dataBinding.ActivityEnrollmentPageBinding
 
 class Enrollment_page : AppCompatActivity() {
 
